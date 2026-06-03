@@ -1,0 +1,1 @@
+export { CarteirinhaQRCode } from './CarteirinhaQRCode'

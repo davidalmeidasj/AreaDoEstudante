@@ -1,0 +1,6 @@
+export { CadastroPage } from './pages/CadastroPage'
+export { CarteirinhaViewPage } from './pages/CarteirinhaViewPage'
+export { ValidacaoPage } from './pages/ValidacaoPage'
+export { useNomeEstudante } from './store/carteirinhaStore'
+export { useCarteirinhaValida } from './hooks/useCarteirinhaValida'
+export type { Estudante } from './types'
