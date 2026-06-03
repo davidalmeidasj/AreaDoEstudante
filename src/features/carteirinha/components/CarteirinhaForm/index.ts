@@ -1,0 +1,1 @@
+export { CarteirinhaForm } from './CarteirinhaForm'

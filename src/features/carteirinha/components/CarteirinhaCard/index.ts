@@ -1,0 +1,1 @@
+export { CarteirinhaCard } from './CarteirinhaCard'
