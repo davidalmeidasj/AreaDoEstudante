@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-turquesa: #66bdb5;
+  --color-label: #93bed4;
+  --color-valor: #6a8b9e;
+  --color-fundo: #0c5c97;
+  --radius-card: 25px;
+  --perspective-card: 1600px;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
